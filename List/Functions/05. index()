@@ -1,0 +1,5 @@
+# index(): Returns the index of the first occurrence of a specified item.
+
+my_list = [1, 2, 3]
+index = my_list.index(2)       # Result: index = 1
+
