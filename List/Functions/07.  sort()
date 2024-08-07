@@ -1,0 +1,6 @@
+#sort(): Sorts the list in ascending order (or according to a specified key).
+#sort()
+
+li = sorted(num)
+print("The sorted list is :",li)
+print()
