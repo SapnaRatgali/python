@@ -1,0 +1,7 @@
+# remove(): Removes the first occurrence of a specified item.
+#remove an elemnt from list
+print()
+print(listing)
+listing.remove(500)
+print("after removing 500 from list")
+print(listing)
