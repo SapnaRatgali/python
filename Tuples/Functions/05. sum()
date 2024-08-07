@@ -1,0 +1,5 @@
+# sum(): Returns the sum of all items in the tuple (if all items are numeric).
+
+my_tuple = (1, 2, 3)
+total = sum(my_tuple)           # Result: total = 6
+
