@@ -1,0 +1,12 @@
+#add email in person
+person[-1]="sapna@gmail.com"
+
+print(person)
+print(person*2)
+print(person*3)
+print()
+
+#add 2 list together
+print("the combined list contains nestedList and person list")
+combinedlist=nestedList+person
+print(combinedlist)
