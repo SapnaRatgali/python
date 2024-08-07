@@ -1,0 +1,10 @@
+#slicing -it ask for range for print list element
+
+print("This is the list")
+print(listing)
+
+print(listing[0:2])
+print(listing[2:])  #till end
+print(listing[:-1]) #starting till end
+
+print(listing[:2]) 
