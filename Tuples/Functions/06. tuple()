@@ -1,0 +1,13 @@
+
+#tuple()- convert the list into tuple / Converts an iterable (e.g., list) into a tuple.
+
+my_list = [1, 2, 3]
+my_tuple = tuple(my_list)    # Result: my_tuple = (1, 2, 3)
+
+namelist=["apple","mango","grapes"]
+nametuple = tuple(namelist)
+
+print("The list ele are :",namelist)
+print()
+print("The tuple ele are :",nametuple)
+
