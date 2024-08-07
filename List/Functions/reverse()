@@ -1,0 +1,8 @@
+#reverse(): Reverses the elements of the list in place.
+#reverse
+
+myl = [1, 2, 3, 4, 5]
+myl.reverse()
+print(myl) 
+
+print(myl.reverse())
