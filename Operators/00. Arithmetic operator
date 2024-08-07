@@ -1,0 +1,11 @@
+# 1) Arithmetic Operators
+a=20
+b=25
+
+print(a+b)  #Addition
+print(a-b)  #Subtraction
+print(a*b)  #Multiplication
+print(b/a)  #division (returns a float)
+print(b//a) #floor division (returns an integer, discarding the decimal part)
+print(a%b)  #Modulus  (returns the remainder of the division)
+print(a**b) #Exponentiation (raises a to the power of b)
