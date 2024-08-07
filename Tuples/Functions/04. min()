@@ -1,0 +1,5 @@
+# min(): Returns the smallest item in the tuple.
+
+my_tuple = (1, 2, 3)
+minimum = min(my_tuple)         # Result: minimum = 1
+
