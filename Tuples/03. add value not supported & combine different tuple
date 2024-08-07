@@ -1,0 +1,16 @@
+#add value in tuple
+
+adding not supported as tuple is immutable
+
+tup2[2]=66
+print(tup2)
+print()
+
+#concat 2 tuple
+
+combine = tup1+tup2
+print(combine)
+
+tup3=((90,91,92),(80,81))
+print(tup3[0][1])
+print()
