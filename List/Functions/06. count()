@@ -1,0 +1,4 @@
+# count(): Returns the number of occurrences of a specified item.
+
+my_list = [1, 2, 2, 3]
+count = my_list.count(2)        # Result: count = 2
