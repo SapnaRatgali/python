@@ -1,0 +1,6 @@
+id= 10
+while id >= 5:
+    print(id,'welcome')
+    id -= 1
+
+print()
