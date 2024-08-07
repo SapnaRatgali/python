@@ -1,0 +1,11 @@
+# to check position of element
+# index(): Returns the index of the first occurrence of a specified value.
+
+my_tuple = (1, 2, 3, 2)
+index = my_tuple.index(2)           # Result: index = 1
+
+print()
+tup1=(10,20,30,40,50,10,10)
+print(f"the element{tup1} is at position:")
+print(tup1.index(20))
+print()
