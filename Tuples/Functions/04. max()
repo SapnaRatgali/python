@@ -1,0 +1,4 @@
+# max(): Returns the largest item in the tuple.
+
+my_tuple = (1, 2, 3)
+maximum = max(my_tuple)         # Result: maximum = 3
