@@ -1,0 +1,77 @@
+# LIST
+
+mylist = ["banana","apple","mango"]
+
+print(mylist)
+
+#------------------------------------------------------------------
+
+#INTEGER TYPE LIST
+
+a=22
+b=5
+c=81
+d=26
+
+ages=[22,5,81,26]
+
+print(ages)
+
+#------------------------------------------------------------------
+
+# FLOAT TYPE LIST
+
+print("the username are :")
+username=['Sapna','amaya','mhadvi']
+print(username)
+
+print("the height in foot are :")
+height_in_foot=[5.5,6.8,4.2]
+print(height_in_foot)
+
+#------------------------------------------------------------------
+
+# NESTED LIST - LIST WITHIN LIST
+
+print("NESTEDL IS AS FOLLOWED:")
+nestedl=[[12,35],[54,44,8],[9]]
+print(nestedl)
+
+print(nestedl[0])
+print(nestedl[0][1])
+
+print(nestedl[2])
+print(nestedl[2][-1])
+
+print(nestedl[1])
+print(nestedl[1][2])
+
+#------------------------------------------------------------------
+
+# MIXED LIST
+
+nestedList = [["pen","book","laptop"],[200,500,25000],[2,3,0]]
+
+print("The entire list contains stationary,price,quantity:")
+print(nestedList)
+
+print("The price are :")
+print(nestedList[1])
+
+print("The stationary are :")
+print(nestedList[0])
+print("The stationary at 3rd position is :")
+print(nestedList[0][2])
+
+print()
+
+
+person=["sapna",55.788,60]
+print()
+print(person)
+
+#------------------------------------------------------------------
+
+
+
+
