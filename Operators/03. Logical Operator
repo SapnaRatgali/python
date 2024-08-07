@@ -1,0 +1,11 @@
+
+# 4) Logical Operator :- Used to combine conditional statements.
+
+#And (and):
+print(a and b)  #(True if both a and b are True)
+
+#Or (or):
+print(a or b)   #(True if at least one of a or b is True)
+
+#Not (not):
+print(not a)    #(True if a is False)
