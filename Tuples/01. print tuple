@@ -1,0 +1,7 @@
+tup1=(10,20,30,40,50,10,10)
+print(tup1)
+print()
+
+tup2=11,22,33,44,55
+print(tup2)
+print()
