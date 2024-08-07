@@ -1,0 +1,9 @@
+# 8) Conditional Expression(Ternary Operator)
+#Conditional expression (x if condition else y):
+#Evaluates to x if the condition is True, otherwise y.
+
+a = 3  # Define the variable 'a'
+
+# Use ternary conditional expression
+print("High" if a > 5 else "Low")   # Output: Low
+
