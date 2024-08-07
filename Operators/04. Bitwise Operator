@@ -1,0 +1,22 @@
+# 5) bitwise operator - checks for bits - 2^0=1,
+# & - similar to AND operator, | SIMILAR TO OR operator
+
+print('& operator') 
+a1 = 1
+b1 = 2
+print(a1 & b1)
+
+# a1 = 1
+# b1 =2
+
+'''
+0001
+0010
+----
+0011
+
+'''
+print()
+print('| operator') 
+
+print(a1|b1)
