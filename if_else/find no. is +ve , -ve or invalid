@@ -1,1 +1,10 @@
-hello
+print()
+number1 = int(input("enter number"))
+if(number1<0):
+    print('negative number')
+elif(number1>0):
+    print('positive number')
+else:
+    print('invalid number')
+
+print()
