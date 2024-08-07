@@ -3,3 +3,4 @@ print()
 listing.insert(0,500)
 print("after inserting 500 in the list")
 print(listing)
+
