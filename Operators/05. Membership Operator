@@ -1,0 +1,14 @@
+# 6) membership operator -- in, not in
+'''
+In (in): a in b (True if a is found in b)
+Not in (not in): a not in b (True if a is not found in b)
+'''
+
+print()
+
+sequ = [1,2,3,4,5]
+
+print("finding if 1 is present in list or not --",1 in sequ)
+print()
+print("finding if 10 is not present in list or not --",10 not in sequ)
+print()
