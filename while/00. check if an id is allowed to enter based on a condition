@@ -1,0 +1,17 @@
+id = 1
+
+while id <= 15:
+    print('As the id is ',id,' you are allowed to enter')
+    id += 1
+print('Not allowed its exceeding the limit that as the id is',id)
+
+print()    
+
+'''
+initialization - id =1
+
+while(condition):
+    //body
+    //increment/decrement
+
+'''
