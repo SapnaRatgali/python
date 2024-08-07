@@ -1,10 +1,10 @@
-ticket=int(input('enter 0 for not confirmed and 1 for confirmed booking'))
+ticket = input('enter no for not confirmed and yes for confirmed booking')
 
-if(ticket==0):
+if ticket == 'no':
     print("Booking not confirmed")
-elif(ticket==1):
+elif ticket == 'yes' :
     print("Booking confirmed")
 else:
-    print("Invalid Booking ")
+    print("Invalid input. Please enter yes or no ")
 
 print()
