@@ -1,0 +1,8 @@
+#pop(): Removes and returns the item at the specified index
+#       (or the last item if no index is specified).
+
+#index position remove element -- .pop(indexno)
+
+print(listing)
+listing.pop(2)
+print(listing)
