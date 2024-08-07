@@ -1,0 +1,9 @@
+#append(): Adds an item to the end of the list.
+#add element without overriding - append(val)
+
+print()
+
+listing = [12,35,46,58,25,64]
+print(listing)
+listing.append(100)
+print(listing)
