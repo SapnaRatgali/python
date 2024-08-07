@@ -1,0 +1,69 @@
+# 3) Assignment operators
+
+name='Anudip'
+num1=10
+
+
+num1 +3
+
+num1+=2
+print(num1)
+print()
+
+a=10
+a =a+5
+print(a)
+print()
+
+a+=5
+print('addition of number is ',a)
+
+print()
+
+# -=
+
+a=40
+
+a-=10
+print('subtraction of number is ',a)
+
+# *=
+
+print()
+a=50
+a *= 10
+
+print('multiplication of number is ',a)
+
+#  %=
+print()
+a=40
+
+a %= 10
+
+print('remainder is ',a)
+
+#  /=
+
+print()
+a=22
+
+a/=3
+
+print('division of number is ',a)
+
+# //=
+
+a=66
+
+a //= 5
+
+print('floor division of number is ',a)
+
+# **
+
+a=3
+
+a **= 3
+
+print('exponentiation of a is ',a)
