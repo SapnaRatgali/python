@@ -1,0 +1,16 @@
+a=22
+b=5
+c=81
+d=26
+
+ages=[22,5,81,26]
+
+print(ages)
+
+#access the 3rd value
+
+print(ages[2])      #print(ages[index])
+                    #so 3rd value is 81 but index is 2
+
+print("The ages on 4th and 2nd position is :")
+print(ages[3],ages[1])
