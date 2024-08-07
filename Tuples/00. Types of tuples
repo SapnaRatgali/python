@@ -1,0 +1,40 @@
+#Tuples are useful when you need a fixed-size, immutable collection of items and can be used to group related data together.
+
+# Single Data Types:
+
+# Integer Tuple: Contains only integers.
+int_tuple = (1, 2, 3)
+
+# Float Tuple: Contains only floating-point numbers.
+float_tuple = (1.1, 2.2, 3.3)
+
+# String Tuple: Contains only strings.
+string_tuple = ("apple", "banana", "cherry")
+
+#------------------------------------------------------------------------------
+
+# Mixed Data Types:
+
+# Mixed Types Tuple: Contains elements of different data types.
+mixed_tuple = (1, "apple", 3.14, True)
+
+#------------------------------------------------------------------------------
+
+# Nested Tuples:
+
+# Nested Tuple: A tuple can contain other tuples as elements.
+nested_tuple = (1, (2, 3), (4, 5, (6, 7)))
+
+#------------------------------------------------------------------------------
+
+# Single Element Tuple:
+
+# Single Element Tuple: A tuple with a single element. It requires a trailing comma to differentiate it from a regular value enclosed in parentheses.
+single_element_tuple = (1,)  # Note the comma
+
+#------------------------------------------------------------------------------
+
+# Empty Tuple:
+
+# Empty Tuple: A tuple with no elements.
+empty_tuple = ()
