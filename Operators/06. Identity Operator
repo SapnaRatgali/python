@@ -1,0 +1,20 @@
+# 7) Identity operator -- is, is not
+
+'''
+Is (is): a is b (True if a and b refer to the same object)
+Is not (is not): a is not b (True if a and b refer to different objects)
+'''
+
+a=[1,2,3,4,5,6]
+b=a
+c=[1,2,3,4,5,6]
+
+print("using 'is' ",a is b)
+print()
+print("using 'is not ' operator ",a is not b)
+
+print("using 'is ' operator ",c is a)
+print()
+print("using 'is not' operator ",c is not b)
+
+
