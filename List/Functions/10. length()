@@ -1,0 +1,10 @@
+#length
+num = [8, 2, 1, 4, 5]
+print("The length is:")
+print(len(num))
+
+print()
+
+num_len=len(num)
+print("The length of list is :",num_len)
+print()
