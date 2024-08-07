@@ -1,0 +1,10 @@
+#repetition
+
+rep=tup1*2
+print(rep)
+print()
+
+#membership -whether element is present or not
+print(22 in tup1)
+
+print(22 in tup2)
