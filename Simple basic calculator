@@ -1,0 +1,27 @@
+Opera = input("enter an operator (+,-,/,*,%): ")
+
+no1 = float(input("Enter the first number"))
+no2 = float(input("Enter the second number"))
+
+if Opera == '+':
+    res = no1 + no2
+    print(res)
+
+elif Opera == '-':
+    res = no1 - no2
+    print(res)
+
+elif Opera == '*':
+    res = no1 * no2
+    print(res)
+
+elif Opera == '/':
+    res = no1 / no2
+    print(res)
+
+elif Opera == '%':
+    res = no1 % no2
+    print(res)
+
+else:
+    print(f"{Opera} is not an invalid operator")
