@@ -1,0 +1,11 @@
+number = int(input("Enter a number (enter 0 to exit): "))
+
+while number != 0:
+    if number > 0:
+        print("The number is positive.")
+    else:
+        print("The number is negative.")
+    
+    number = int(input("Enter a number (enter 0 to exit): "))
+
+print("Exiting the program.")
