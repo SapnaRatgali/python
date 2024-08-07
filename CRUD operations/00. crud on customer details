@@ -1,0 +1,28 @@
+# create a list of customer details,
+# and do CRUD OPERATION - create,read,update,delete
+
+print("Customer details are names,resides and age as followed")
+Customer_detail=[["Jinal","Anjana","Sudeep"],["Mumbai","Pune","Goa"],[20,25,30]]  #created
+print(Customer_detail)
+print()
+print(Customer_detail[0:2])  
+print()
+print("updated Customer details list is:")
+
+Customer_detail[0].insert(1,"Rajni")    #updated added rajni
+print(Customer_detail)
+
+print()
+
+
+Customer_detail[1].pop(1)       #deleted pune
+print(Customer_detail)
+
+Customer_detail[2].remove(30)       #deleted 30
+print(Customer_detail)
+
+
+print()
+print("The final updated list is:")
+
+print(Customer_detail)
