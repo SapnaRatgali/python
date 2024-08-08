@@ -1,0 +1,7 @@
+# Adding value in element of existing list
+print('adding values in existing list that is ',id)
+va = int(input("Enter one number that you want to add in each element :"))
+for numLine in id:
+    print(numLine + va)
+
+print()
