@@ -1,0 +1,15 @@
+#for item in Sequence/data
+
+for alpha in 'America':
+    print(alpha)
+
+'''
+Output:
+A
+m
+e
+r
+i
+c
+a
+'''
