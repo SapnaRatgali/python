@@ -1,0 +1,11 @@
+#range(start,end,step)
+
+for no in range(1,5):
+    print(no)
+
+print()
+
+for no in range(0,10,2):
+    print(no)
+
+print()
