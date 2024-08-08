@@ -13,3 +13,13 @@ i
 c
 a
 '''
+#------------------------------------------------------------------
+
+#iterate the students name from a list
+
+studentName = ['amaaya','Chandan','Deepa','Vishnu']
+
+for li in studentName:
+    print("The student name in list are as followed: ", li)
+print()
+
