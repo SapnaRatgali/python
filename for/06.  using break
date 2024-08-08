@@ -1,0 +1,10 @@
+# break -stops the loop, continue - skip
+
+print('using break')
+for i in range(10):
+    if i == 5:
+        break
+    print(i)
+
+print()
+
