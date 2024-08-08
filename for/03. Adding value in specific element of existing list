@@ -1,0 +1,14 @@
+# Adding value in specific element of existing list
+
+
+id = [11, 12, 13,14]
+print('adding value at a specific index of list ', id)
+nu = int(input('Enter value how much you want to add : '))
+
+print()
+for index, value in enumerate(id):
+    if index == 2:
+        print(value + nu)  #-----------
+    else:
+        print(value)
+print()
