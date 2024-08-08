@@ -1,0 +1,6 @@
+print()
+id = [10,11,12,13]
+print('After iterating the list',id ,'index value of 1 is ')
+print(id[1])
+
+print()
